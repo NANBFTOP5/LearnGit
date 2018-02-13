@@ -1,24 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset0 Consolas;
-}
-{\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-\red52\green52\blue52;\red249\green249\blue249;}
-{\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
-\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl360\partightenfactor0
+Challenge1 Checkerboard
+Description: Create a Checkerboard class that generates a board in the style of the game of checkers in JavaFX using an AnchorPane as the container for the Rectangles that make up the rectangles on the board. Place the AnchorPane containing the checkerboard in a UI built in FXML that has menus to select the grid size and color scheme. Allow the Stage (window) size to be changed by the user causing the size of the board to change with the size of the Stage.
 
-\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-Git 
-\f1\b \cf4 is
-\f0\b0 \cf2  a distributed version control system.\
-Git 
-\f1\b \cf4 is
-\f0\b0 \cf2  free software distributed under the GPL.
-\f2 \
-\pard\pardeftab720\sl360\partightenfactor0
+Challenge2 AudioViz Slider
+Description: Using an existing JavaFX media player application project, AudioViz, implement the ability to use the slider above the visualizer to change the playhead position. The slider currently changes the playhead position as the media plays. The left end of the slider represents 0.0 time and the right end represents the time of the end of the song. The user is to be able to slide the slider to any time between 0.0 and the end of the song and the media player is to play from the time position selected. In addition, the numerical values displayed after Length: and Current: in the user interface are to only display one digit after the decimal point.
 
-\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Git has a mutable index called stage.
-\f2 \
-}
+Challenge3 Checkers Game Data Model Concept
+Description: create a data model concept for the game of Checkers (Draughts).
