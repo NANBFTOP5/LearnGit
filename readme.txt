@@ -6,3 +6,6 @@ Description: Using an existing JavaFX media player application project, AudioViz
 
 Challenge3 Checkers Game Data Model Concept
 Description: create a data model concept for the game of Checkers (Draughts).
+
+Challenge4 Improved_NotificationsExamples
+Description: modify an existing threaded application to make notification of state changes and toggle buttons that start and stop the threaded tasks based on the state. The buttons are to display Start Task n when the task is not running and End Task n when the task is running.
